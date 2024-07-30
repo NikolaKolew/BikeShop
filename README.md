@@ -14,4 +14,4 @@
     ```sh
     poetry install
     ```
-3. Sample results can be found in main.py
+3. Sample results can be found in main.py and all XLSX files can be found in data_dictonary folder
